@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BikeInfo</string>
+    <string name="pair">Long press to pair</string>
+    <string name="speed">SPEED</string>
+    <string name="cadence">CADENCE</string>
+    <string name="power">POWER</string>
+    <string name="heart_rate">HEART RATE</string>
+    <string name="connect">Connect</string>
+</resources>
